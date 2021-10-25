@@ -1,0 +1,95 @@
+A ciência, entendida como conhecimento da natureza e exploração
+desse mesmo conhecimento, envolve três aspectos básicos: uma história,
+um método de investigação e uma comunidade de investigadores (Kneller,
+1980). 
+
+
+A pesquisa, entendida como a atividade básica da ciência na sua indagação e construção da realidade, vincula pensamento e ação. Minayo (1994,
+p. 17) considera que “nada pode ser intelectualmente um problema, se não
+tiver sido, em primeiro lugar, um problema da vida prática”. Assim, a pesquisa se realiza fundamentalmente por uma linguagem fundada em conceitos, proposições, métodos e técnicas, linguagem esta que se constrói com
+um ritmo próprio e particular. Tal ritmo é denominado ciclo de pesquisa,
+que representa um processo de trabalho em espiral que começa com um
+problema ou uma pergunta e termina com um produto provisório capaz de
+dar origem a novas interrogações.
+
+
+
+O ciclo de pesquisa, segundo Minayo (1994), compõe-se de três
+momentos: fase exploratória da pesquisa, trabalho de campo e tratamento
+do material. O referido processo inicia-se com a fase exploratória da pesquisa, em que são interrogados aspectos referentes ao objeto, aos pressupostos,
+às teorias pertinentes, à metodologia apropriada e às questões operacionais
+necessárias para desencadear o trabalho de campo. Em seguida é estabelecido o trabalho de campo, que consiste no recorte empírico da construção
+teórica elaborada no momento. É nesta etapa que são combinadas várias
+técnicas de coleta de dados, como entrevistas, observações, pesquisa documental e bibliográfica, dentre outras. Por fim, faz-se necessário elaborar o
+tratamento do material recolhido no campo, que pode ser subdividido em:
+ordenação, classificação e análise propriamente dita
+
+
+
+*A análise tem como objetivo organizar e sumariar os dados de tal forma
+que possibilitem o fornecimento de respostas ao problema proposto
+para investigação. Já a interpretação tem como objetivo a procura do
+sentido mais amplo das respostas, o que é feito mediante sua ligação a
+outros conhecimentos anteriormente obtidos (Gil, 1999, p. 168).
+
+
+O tratamento dos dados é a seção do projeto da investigação que se
+ocupa com a explicação de como se pretende tratar os dados a coletar, inclusive justificando por que referido tratamento é o mais adequado aos propósitos do estudo. Os objetivos da investigação somente são alcançados com a
+coleta, o tratamento e, posteriormente, com a interpretação dos dados, buscando assegurar com isso a correlação entre objetivos e formas de atingi-los
+(Vergara, 1997).
+
+O último passo do processo de análise e interpretação dos dados,
+conforme classificação apresentada por Gil (1999), diz respeito à interpretação dos dados propriamente dita. A análise e a interpretação são dois processos da pesquisa que estão estreitamente relacionados, o que dificulta precisar onde termina a etapa da análise e começa a da interpretação. A interpretação dos dados na pesquisa social refere-se à relação entre os dados empíricos
+e a teoria. É recomendável que haja um equilíbrio entre o arcabouço teórico
+e os dados empiricamente obtidos, a fim de que os resultados da pesquisa
+sejam reais e significativos. Neste sentido Goode e Hatt (1969), citados por
+Gil (1999), enfatizam a importância da teoria para o estabelecimento de
+generalizações empíricas e sistemas de relações entre proposições.
+
+
+Sou graduando em Sistemas de Informação na Universidade Federal do Pará, apaixonado pela área de TI e afins, atuo geralmente como desenvolvedor de software.
+
+Meu objetivo é ser um profissional capaz de desenvolver e oferecer, continuamente, as melhores soluções para as demandas da sociedade. Estou sempre buscando aperfeiçoamento para expandir meu potencial e manter-me atualizado.
+
+Tenho facilidade para trabalhar tanto em equipe quanto solo. Procuro sempre respeitar as normas e regras estabelecidas na empresa. Busco a otimização do trabalho.
+
+O que você precisar em relação a informática (ou em até outra área) eu posso fazer. Caso eu não saiba no momento, aprendo em pouco tempo. Mantenho o foco até solucionar o que foi proposto.
+
+Possuo uma curiosidade por conhecimento bem afiada, sempre ao lado da imaginação. Isso me ajuda a aplicar o que aprendo em diversas situações práticas, algumas vezes interdisciplinares, buscando sempre inovar e otimizar as soluções das tarefas.
+
+Trabalho tanto em ambiente de desenvolvimento Linux quanto Windows. Sendo que meu ambiente padrão é no ArchLinux.
+
+Atuei em projetos de Processamento de Dados, WebScrapping, Engenharia reversa de bases de dados, geração de código, Rest API e aplicações Web (monolito).
+
+Atualmente sou desenvolvedor backend Python/Django, entrando um pouco no frontend quando necessário, em um produto inovador no setor financeiro/fiscal. Também atuo como desenvolvedor backend usando C#/.NET/Python em outro projeto; sou responsável técnico pela aplicação de Deep Learning que utiliza Tensorflow.
+
+Tenho experiência com as seguintes tecnologias:
+- Fortran, MATLAB, C, C#, Pascal, Java, Python, .NET, Node.js, ReactJS, React Native, Angular, Dart
+- Flask, Ionic, Django, SqlAlchemy, Jinja2, Django Rest Framework, Flask-Restful, Maven, SpringBoot, JPA, Hibernate, JavaParser, SchemaCrawler, JSoup
+- Chatbots
+- Paradgma reflexivo e OO
+- Docker
+- Banco de dados relacionais (PostgreSQL e MySQL)
+- Linux e Shell Script
+- HTML, CSS, Bootstrap e JavaScript
+
+As linguagens que mais domino e utilizo:
+- Java (backend)
+- Python (Script e Web - FullStack)
+
+Estou desenvolvendo:
+- Java (Web - FullStack)
+- Python (Data Science)
+- Node.JS, ReactJS e React Native.
+- Flutter
+
+Conhecimentos adicionais:
+- Arquitetura de sistemas
+- SCRUM
+- Git
+- Design Patterns
+
+GitHub: https://github.com/SousaPedro11
+E-mail: pedro.sousa@ig.ufpa.br / pedropldesousa@gmail.com /
+ppls2106@gmail.com
+Telegram: https://t.me/sousapedro11
